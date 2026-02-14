@@ -1,0 +1,13 @@
+# Core
+langchain>=0.0.190
+pypdf>=3.10.0
+beautifulsoup4>=4.12.2
+python-dotenv>=1.0.1
+gradio>=4.44.0
+
+# Embeddings & vectorstore
+sentence-transformers>=2.2.2
+faiss-cpu>=1.8.1
+
+# Optional (if you want to use OpenAI)
+openai>=1.0.0

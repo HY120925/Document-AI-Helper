@@ -1,0 +1,11 @@
+stones (one color for each side) are placed on the board’s intersections, one
+at a time, wherever you like. Once all your stories (52 for each side) are on
+the board, the object is to isolate the stones of your opponent by encircling
+them.
+A game of go——called wet’-chi in China-can last up to three hundred
+moves. The strategy is more subtle and fluid than chess, developing slowly;
+the more complex the pattern your stories initially create on the board, the
+harder it is for your opponent to understand your strategy. Fighting to con-
+trol a particular area is not worth the trouble: You have to think in larger
+terms, to be prepared to sacrifice an area in order eventually to dominate
+the board. What you are after is not an entrenched position but mobility.
